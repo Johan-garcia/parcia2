@@ -30,6 +30,10 @@ source antlr-env/bin/activate
 pip install antlr4-python3-runtime
 ```
 3. Despues de esto ya se podra ejecutar el punto, en caso de error descargar las librerias necesarias.
+4. En caso de querer solo ejecutar los puntos descargue este archivo a traves del siguiente link(para asegurar la correcta ejecucion, habilite el entorno virtual y ejecute el archvo .py unicamente)
+ ```
+https://drive.google.com/file/d/16cXFUOCco5J6f9he43E-GkjLkqjfqwmH/view?usp=drive_link
+```
 
 ## Proyecto 1: Calculadora de Números Racionales
 
